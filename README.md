@@ -1,2 +1,4 @@
 ### Virtual Beep Piano
-15 year old me on TurboC++ with a lot of free time and cute ideas. 
+
+Using the graphics library and **sound()** function to make a sacrilegious piano. 
+Version 2 includes in-built songs. 
