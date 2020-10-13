@@ -2,8 +2,14 @@
 
 Using the graphics library and **sound()** function to make a sacrilegious piano. 
 
+Please play Happy Birthday at my funeral for comedic effect, thanks. 
+
 Version 2 includes in-built songs. 
 
 
-![alt text](![alt text](https://drive.google.com/file/d/1FMv6VTzVXdFZltKo-VbPIMdpIq3FFJUa/view?usp=sharing)
+![Home Page 1](demo/Home1.jpg)
+![Home Page 2](demo/Home2.jpg)
+![Menu](demo/Menu.jpg)
+![Beep 1](demo/beep1.jpg)
+![Beep 2](demo/beep2.jpg)
 
