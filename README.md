@@ -1,6 +1,6 @@
 ### Virtual Beep Piano
 
-Used the graphics library and **sound()** function to make a sacrilegious piano when I was 15 because it felt cute and might delete later.
+Used the graphics library and **sound()** function to make a sacrilegious piano when I was 15 because it felt cute might delete later.
 
 Please play Happy Birthday at my funeral for comedic effect, thanks. 
 
