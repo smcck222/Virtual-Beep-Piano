@@ -7,9 +7,9 @@ _This is to ensure that you play Happy Birthday at my funeral for comedic effect
 Version 2 includes in-built songs. 
 
 
-![Home Page 1](demo/Home Page 1.png)
-![Home Page 2](demo/Home Page 2.png)
-![Menu](demo/Menu.jpg)
-![Beep 1](demo/Beep1 .png)
-![Beep 2](demo/Beep 2.png)
+![home1](demo/Home Page 1.png)
+![home2](demo/Home Page 2.png)
+![menu](demo/Menu.jpg)
+![beep1](demo/Beep1 .png)
+![beep2](demo/Beep 2.png)
 
