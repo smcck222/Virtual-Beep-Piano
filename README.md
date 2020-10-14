@@ -10,6 +10,6 @@ Version 2 includes in-built songs.
 ![home1](demo/Home Page 1.png)
 ![home2](demo/Home Page 2.png)
 ![menu](demo/Menu.jpg)
-![beep1](demo/Beep1 .png)
+![beep1](demo/Beep 1.png)
 ![beep2](demo/Beep 2.png)
 
